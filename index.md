@@ -2,28 +2,22 @@
 
 ---
 
-### Category Name 1 
+### Data Science Projects 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Energy consumption](/project_energy)
+<img src="images/typical_weeks_ex2.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[Generating synthetic electricity consumption data](/SylasKI)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
-### Category Name 2
+### Achievements
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [Innovation Award of the Parkinson Foundation](http://https://parkinsonstiftung.de/innovationspreis.com/)
+- [Publications](http://https://pubmed.ncbi.nlm.nih.gov/?term=Annekatrin+K%C3%B6nig&sort=fauth&sort_order=asc.com/)
+
 
 ---
 
