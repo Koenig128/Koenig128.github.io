@@ -9,14 +9,14 @@
 
 ---
 [Generating synthetic electricity consumption data](/SylasKI)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/SylasKI_logo.jpg?raw=true"/>
 
 ---
 
 ### Achievements
 
-- [Innovation Award of the Parkinson Foundation](http://https://parkinsonstiftung.de/innovationspreis.com/)
-- [Publications](http://https://pubmed.ncbi.nlm.nih.gov/?term=Annekatrin+K%C3%B6nig&sort=fauth&sort_order=asc.com/)
+- [Innovation Award of the Parkinson Foundation](http://https://parkinsonstiftung.de/innovationspreis/)
+- [Publications](http://https://pubmed.ncbi.nlm.nih.gov/?term=Annekatrin+K%C3%B6nig&sort=fauth&sort_order=asc/)
 
 
 ---
