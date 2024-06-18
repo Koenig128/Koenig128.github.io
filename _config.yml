@@ -5,7 +5,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><br>
   Passionate about communicating data science concepts 
   <br><br>
-  # <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a test> 
+  # <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile test</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
