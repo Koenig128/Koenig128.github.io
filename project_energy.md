@@ -10,6 +10,7 @@ In my GitHub repository you will find notebooks that demonstrate various data pr
 
 Here we see the raw data from a private household.
 <img src="images/energy_consumption_2020_2021.jpg?raw=true"/>
+<img src="images/SylasKI_logo.jpg?raw=true"/>
 
 Not very informative yet... Many consumers use varying amounts of energy depending on the season. Therefore, we can segment the time series into different seasons and examine the average weekdays.
 <img src="images/typical_weeks_B.jpg?raw=true"/>
