@@ -13,11 +13,9 @@
 
 ---
 
-### Achievements
-
-- [Innovation Award of the Parkinson Foundation](http://https://parkinsonstiftung.de/innovationspreis/)
-- [Publications](http://https://pubmed.ncbi.nlm.nih.gov/?term=Annekatrin+K%C3%B6nig&sort=fauth&sort_order=asc/)
-
+### Other achievements
+- [Innovation Award of the Parkinson Foundation](https://parkinsonstiftung.de/innovationspreis/)
+- [Publications](https://pubmed.ncbi.nlm.nih.gov/?term=Annekatrin+K%C3%B6nig&sort=fauth&sort_order=asc)
 
 ---
 
